@@ -81,7 +81,7 @@ Create MySQL database: sql
 CREATE DATABASE instaclone_db;
 
 -
-## Update application.yaml:
+## Update application.properties:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/instaclone_db
 spring.datasource.username=root
