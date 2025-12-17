@@ -49,7 +49,7 @@ This project is built using **Spring Boot (Backend)** and **React (Frontend)** t
 ##  Project Structure
 
 ### Backend (`instaclone`)
-src/main/java/com/social/instagram
+src/main/java/com/instaclone
 │
 ├── controller
 ├── model
@@ -57,7 +57,7 @@ src/main/java/com/social/instagram
 ├── service
 ├── seurity
 ├── util
-└── InstagramApplication.java
+└── InstaCloneApplication.java
 
 
 ### Frontend (`instaclone-frontend`)
